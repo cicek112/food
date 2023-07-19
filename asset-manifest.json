@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/foodfinder/static/css/main.aec7f031.css",
+    "main.js": "/foodfinder/static/js/main.ef6ab006.js",
+    "static/media/meal.png": "/foodfinder/static/media/meal.d5acf06277d4fc1fb3f0.png",
+    "index.html": "/foodfinder/index.html",
+    "main.aec7f031.css.map": "/foodfinder/static/css/main.aec7f031.css.map",
+    "main.ef6ab006.js.map": "/foodfinder/static/js/main.ef6ab006.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aec7f031.css",
+    "static/js/main.ef6ab006.js"
+  ]
+}
